@@ -2,9 +2,13 @@
 
 An escape story of Brain!
 
-## Stat in R
-Lab 2: [Introduction to Visualization with R](Lab2_Read_Cleaned_Plotted.html)
+## Chapter 1: Brain Chooses R to escape:
 
-Lab 3: [Joint Probabilities and Comparing Distributions](Lab-3_Data_Vizualization.html)
+Lab 2
+: [Introduction to Visualization with R](Lab2_Read_Cleaned_Plotted.html)
 
-Lab 4: [Discrete Distributions](Lab-4_Data_Vizualization.html)
+Lab 3
+: [Joint Probabilities and Comparing Distributions](Lab-3_Data_Vizualization.html)
+
+Lab 4
+: [Discrete Distributions](Lab-4_Data_Vizualization.html)
