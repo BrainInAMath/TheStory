@@ -2,7 +2,7 @@
 
 An escape story of Brain!
 
-## Chapter 1: Brain Chooses R to escape:
+## Chapter 1: R:
 
 Lab 2
 : [Introduction to Visualization with R](Lab2_Read_Cleaned_Plotted.html)
