@@ -12,3 +12,6 @@ Lab 3
 
 Lab 4
 : [Discrete Distributions](Lab-4_Data_Vizualization.html)
+
+Lab 5
+: [Fitting Distributions to Continuous RVs](Lab-5_Fitting_Distributions.html)
