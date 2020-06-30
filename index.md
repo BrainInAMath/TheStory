@@ -18,3 +18,6 @@ Lab 5
 
 Lab 7
 : [Plotting Time Series](Lab-7_Time_Series.html)
+
+Lab 8
+: [Data Transformation and CLT](Lab-8_Data_Transformation.html)
