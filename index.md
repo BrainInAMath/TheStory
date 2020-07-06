@@ -21,3 +21,7 @@ Lab 7
 
 Lab 8
 : [Data Transformation and CLT](Lab-8_Data_Transformation.html)
+
+Lab 9
+: [Hypothesis Testing](Lab-9_HypothesisTesting.html)
+
