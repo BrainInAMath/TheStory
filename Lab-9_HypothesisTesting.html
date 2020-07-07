@@ -1640,11 +1640,8 @@ pre {
 <h2>Getting Started</h2>
 <ol style="list-style-type: decimal">
 <li>Load <strong>house_subset.csv</strong> data.</li>
-<li>some packages including</li>
+<li>Load <code>tidyverse</code></li>
 </ol>
-<ul>
-<li><code>tidyverse</code></li>
-</ul>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" title="1"><span class="kw">library</span>(<span class="st">&#39;tidyverse&#39;</span>)</a>
 <a class="sourceLine" id="cb1-2" title="2"><span class="kw">theme_set</span>(<span class="kw">theme_minimal</span>())</a></code></pre></div>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" title="1">houses &lt;-<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">&#39;../Lab 3/house_subset.csv&#39;</span>) <span class="co"># choose your directory!</span></a></code></pre></div>
@@ -1943,7 +1940,7 @@ pre {
 <blockquote>
 <p>Reject the hypothesis that the mean house price in two regions are equal.</p>
 </blockquote>
-<p>The second hypothesis (<span class="math inline">\(\sigma_1 \geq \sigma_2\)</span>) can be tested as below:</p>
+<p>The second hypothesis (<span class="math inline">\(\mu_1 \geq \mu_2\)</span>) can be tested as below:</p>
 <div class="sourceCode" id="cb40"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb40-1" title="1"><span class="kw">t.test</span>(sample1,sample2, <span class="dt">var.equal =</span> F, <span class="dt">alternative =</span> <span class="st">&#39;less&#39;</span>)</a></code></pre></div>
 <pre><code>## 
 ##  Welch Two Sample t-test
@@ -1959,7 +1956,7 @@ pre {
 <blockquote>
 <p>Reject the hypothesis that mean house price in West Seattle (x) is greater than or equal to mean price in Mercer Island (y).</p>
 </blockquote>
-<p>The last hypothesis (<span class="math inline">\(\sigma_1 \leq \sigma_2\)</span>) can be tested as below:</p>
+<p>The last hypothesis (<span class="math inline">\(\mu_1 \leq \mu_2\)</span>) can be tested as below:</p>
 <div class="sourceCode" id="cb42"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb42-1" title="1"><span class="kw">t.test</span>(sample1,sample2, <span class="dt">var.equal =</span> F, <span class="dt">alternative =</span> <span class="st">&#39;greater&#39;</span>)</a></code></pre></div>
 <pre><code>## 
 ##  Welch Two Sample t-test
@@ -2021,7 +2018,7 @@ pre {
 <blockquote>
 <p>Reject the hypothesis that the mean house price in two regions are equal.</p>
 </blockquote>
-<p>The second hypothesis (<span class="math inline">\(\mu_1 \geq \mu_2\)</span>) can be tested as below:</p>
+<p>The second hypothesis (<span class="math inline">\(\sigma_1 \geq \sigma_2\)</span>) can be tested as below:</p>
 <div class="sourceCode" id="cb48"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb48-1" title="1"><span class="kw">var.test</span>(sample1,sample2, <span class="dt">alternative =</span> <span class="st">&#39;less&#39;</span>)</a></code></pre></div>
 <pre><code>## 
 ##  F test to compare two variances
@@ -2037,7 +2034,7 @@ pre {
 <blockquote>
 <p>Reject the hypothesis that mean house price in West Seattle (x) is greater than or equal to mean price in Mercer Island (y).</p>
 </blockquote>
-<p>The last hypothesis (<span class="math inline">\(\mu_1 \leq \mu_2\)</span>) can be tested as below:</p>
+<p>The last hypothesis (<span class="math inline">\(\sigma_1 \leq \sigma_2\)</span>) can be tested as below:</p>
 <div class="sourceCode" id="cb50"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb50-1" title="1"><span class="kw">var.test</span>(sample1,sample2, <span class="dt">alternative =</span> <span class="st">&#39;greater&#39;</span>)</a></code></pre></div>
 <pre><code>## 
 ##  F test to compare two variances
