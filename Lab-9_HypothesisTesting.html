@@ -1880,23 +1880,23 @@ pre {
 ## variance 
 ## 866023.3</code></pre>
 <blockquote>
-<p>Reject the hypothesis</p>
+<p>Don’t reject the hypothesis</p>
 </blockquote>
 <p>If you are testing <span class="math inline">\(H0: \sigma \geq 2000\)</span> and reject if it falls into the 5% critical region:</p>
-<div class="sourceCode" id="cb35"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb35-1" title="1"><span class="kw">varTest</span>(houses<span class="op">$</span>sqft_living, <span class="dt">sigma.squared =</span> <span class="dv">2000</span>, <span class="dt">alternative  =</span> <span class="st">&#39;less&#39;</span>)</a></code></pre></div>
+<div class="sourceCode" id="cb35"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb35-1" title="1"><span class="kw">varTest</span>(houses<span class="op">$</span>sqft_living, <span class="dt">sigma.squared =</span> <span class="dv">2000</span><span class="op">^</span><span class="dv">2</span>, <span class="dt">alternative  =</span> <span class="st">&#39;less&#39;</span>)</a></code></pre></div>
 <pre><code>## 
 ##  Chi-Squared Test on Variance
 ## 
 ## data:  houses$sqft_living
-## Chi-Squared = 3304745, df = 7632, p-value = 1
-## alternative hypothesis: true variance is less than 2000
+## Chi-Squared = 1652.4, df = 7632, p-value &lt; 2.2e-16
+## alternative hypothesis: true variance is less than 4e+06
 ## 95 percent confidence interval:
 ##       0.0 889576.9
 ## sample estimates:
 ## variance 
 ## 866023.3</code></pre>
 <blockquote>
-<p>Don’t reject the hypothesis</p>
+<p>Reject the hypothesis</p>
 </blockquote>
 </div>
 </div>
@@ -1943,7 +1943,7 @@ pre {
 <blockquote>
 <p>Reject the hypothesis that the mean house price in two regions are equal.</p>
 </blockquote>
-<p>The second hypothesis (<span class="math inline">\(\mu_1 \geq \mu_2\)</span>) can be tested as below:</p>
+<p>The second hypothesis (<span class="math inline">\(\sigma_1 \geq \sigma_2\)</span>) can be tested as below:</p>
 <div class="sourceCode" id="cb40"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb40-1" title="1"><span class="kw">t.test</span>(sample1,sample2, <span class="dt">var.equal =</span> F, <span class="dt">alternative =</span> <span class="st">&#39;less&#39;</span>)</a></code></pre></div>
 <pre><code>## 
 ##  Welch Two Sample t-test
@@ -1959,7 +1959,7 @@ pre {
 <blockquote>
 <p>Reject the hypothesis that mean house price in West Seattle (x) is greater than or equal to mean price in Mercer Island (y).</p>
 </blockquote>
-<p>The last hypothesis (<span class="math inline">\(\mu_1 \leq \mu_2\)</span>) can be tested as below:</p>
+<p>The last hypothesis (<span class="math inline">\(\sigma_1 \leq \sigma_2\)</span>) can be tested as below:</p>
 <div class="sourceCode" id="cb42"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb42-1" title="1"><span class="kw">t.test</span>(sample1,sample2, <span class="dt">var.equal =</span> F, <span class="dt">alternative =</span> <span class="st">&#39;greater&#39;</span>)</a></code></pre></div>
 <pre><code>## 
 ##  Welch Two Sample t-test
