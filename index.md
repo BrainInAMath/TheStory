@@ -25,3 +25,5 @@ Lab 8
 Lab 9
 : [Hypothesis Testing](Lab-9_HypothesisTesting.html)
 
+Lab 10
+: [ANOVA](Lab-10_ANOVA.html)
