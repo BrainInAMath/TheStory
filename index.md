@@ -27,3 +27,6 @@ Lab 9
 
 Lab 10
 : [ANOVA](Lab-10_ANOVA.html)
+
+Lab 11
+: [Testing Proportions](Lab-11_TestingProportions.html)
