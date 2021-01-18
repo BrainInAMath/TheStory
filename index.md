@@ -7,7 +7,7 @@ An escape story of Brain!
 ### Machine Learning in R
 
 Week 2
-: [A not very gently introdcution to R](W2_Data_Processing.html)
+: [A not very gentle introdcution to R](W2_Data_Processing.html)
 
 
 
