@@ -4,6 +4,14 @@ An escape story of Brain!
 
 ## Chapter 1: R
 
+### Machine Learning in R
+
+Week 2
+: [A not very gently introdcution to R](W2_Data_Processing.html)
+
+
+
+### Data Visualization and Statistics
 Lab 2
 : [Introduction to Visualization with R](Lab2_Read_Cleaned_Plotted.html)
 
