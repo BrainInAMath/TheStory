@@ -9,6 +9,8 @@ An escape story of Brain!
 Week 2
 : [A not very gentle introdcution to R](W2_Data_Processing.html)
 
+Week 3
+: [Regressions and how to find them](W3_Regression.html)
 
 
 ### Data Visualization and Statistics
