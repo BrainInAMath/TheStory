@@ -12,6 +12,8 @@ Week 2
 Week 3
 : [Regressions and how to find them](W3_Regression.html)
 
+Week 4
+: [Nonlinear Regressions](W4_Nonlinear.html)
 
 ### Data Visualization and Statistics
 Lab 2
