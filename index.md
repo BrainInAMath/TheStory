@@ -15,6 +15,10 @@ Week 3
 Week 4
 : [Nonlinear Regressions](W4_Nonlinear.html)
 
+Week 5
+: [Gradient Descent and Validation](W5_GradientDescent.html)
+
+
 ### Data Visualization and Statistics
 Lab 2
 : [Introduction to Visualization with R](Lab2_Read_Cleaned_Plotted.html)
