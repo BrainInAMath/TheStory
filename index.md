@@ -18,6 +18,9 @@ Week 4
 Week 5
 : [Gradient Descent and Validation](W5_GradientDescent.html)
 
+Week 8
+: [Trees, Forests and the art of pruning](W8_Trees.html)
+
 
 ### Data Visualization and Statistics
 Lab 2
