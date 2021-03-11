@@ -21,6 +21,9 @@ Week 5
 Week 8
 : [Trees, Forests and the art of pruning](W8_Trees.html)
 
+Week 9
+: [Support Vector Machines](W9_SVM.html)
+
 
 ### Data Visualization and Statistics
 Lab 2
