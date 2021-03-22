@@ -24,7 +24,7 @@ Week 8
 Week 9
 : [Support Vector Machines](W9_SVM.html)
 
-Week 9
+Week 10
 : [Introduction to Neural Networks in R](W10_NNets.html)
 
 ### Data Visualization and Statistics
