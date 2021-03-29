@@ -25,7 +25,10 @@ Week 9
 : [Support Vector Machines](W9_SVM.html)
 
 Week 10
-: [Introduction to Neural Networks in R](W10_NNets.html)
+: [Introduction to Neural Networks](W10_NNets.html)
+
+Week 11
+: [Neural Networks in R](W11_NNets.html)
 
 ### Data Visualization and Statistics
 Lab 2
