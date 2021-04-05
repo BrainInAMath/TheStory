@@ -30,6 +30,9 @@ Week 10
 Week 11
 : [Neural Networks in R](W11_NNets.html)
 
+Week 12
+: [Principle Component Analysis](W12_PCA.html) 
+
 ### Data Visualization and Statistics
 Lab 2
 : [Introduction to Visualization with R](Lab2_Read_Cleaned_Plotted.html)
