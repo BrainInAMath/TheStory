@@ -31,7 +31,11 @@ Week 11
 : [Neural Networks in R](W11_NNets.html)
 
 Week 12
-: [Principle Component Analysis](W12_PCA.html) 
+: [Principle Component Analysis](W12_PCA.html)
+
+Week 13
+: [Clustering Models](W13_Kmeans.html)
+ 
 
 ### Data Visualization and Statistics
 Lab 2
