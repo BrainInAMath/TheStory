@@ -39,11 +39,10 @@ Week 13
 
 ### Data Visualization and Statistics
 Lab 1 
-
 : [Introduction to Visualization with R](Lab1_Read_Cleaned_Plotted.html)
 
-Lab 3
-: [Joint Probabilities and Comparing Distributions](Lab-3_Data_Vizualization.html)
+Lab 2
+: [Comparing Distributions](Lab-2_Data_Vizualization.html)
 
 Lab 4
 : [Discrete Distributions](Lab-4_Data_Vizualization.html)
