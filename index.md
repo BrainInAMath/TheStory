@@ -44,8 +44,8 @@ Lab 1
 Lab 2
 : [Comparing Distributions](Lab-2_Data_Vizualization.html)
 
-Lab 4
-: [Discrete Distributions](Lab-4_Data_Vizualization.html)
+Lab 3
+: [Visualizing Categorical Variables](Lab-3_DiscreteDistributions.html)
 
 Lab 5
 : [Fitting Distributions to Continuous RVs](Lab-5_Fitting_Distributions.html)
