@@ -47,6 +47,8 @@ Lab 2
 Lab 3
 : [Visualizing Categorical Variables](Lab-3_DiscreteDistributions.html)
 
+Lab 4
+: [Distributions](Lab-4_Distributions.html)
 Lab 5
 : [Fitting Distributions to Continuous RVs](Lab-5_Fitting_Distributions.html)
 
