@@ -49,6 +49,7 @@ Lab 3
 
 Lab 4
 : [Distributions](Lab-4_Distributions.html)
+
 Lab 5
 : [Fitting Distributions to Continuous RVs](Lab-5_Fitting_Distributions.html)
 
