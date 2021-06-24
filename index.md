@@ -54,7 +54,7 @@ Lab 5
 : [Fitting Distributions to Continuous RVs](Lab-5_Fitting_Distributions.html)
 
 Lab 7
-: [Plotting Time Series](Lab-7_Time_Series.html)
+: [Data Transformation and Time Series](Lab-7_DT_and_Time_Series.html)
 
 Lab 8
 : [Data Transformation and CLT](Lab-8_Data_Transformation.html)
