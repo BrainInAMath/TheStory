@@ -57,7 +57,7 @@ Lab 7
 : [Data Transformation and Time Series](Lab-7_DT_and_Time_Series.html)
 
 Lab 8
-: [Data Transformation and CLT](Lab-8_Data_Transformation.html)
+: [Data Transformation and CLT](Lab-9_CLT.html)
 
 Lab 9
 : [Hypothesis Testing](Lab-9_HypothesisTesting.html)
