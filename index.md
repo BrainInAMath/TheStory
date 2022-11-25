@@ -1,6 +1,6 @@
 # Brain In A Math
 
-An escape story of Brain!
+A mind bending jail-break story of Brain!
 
 ## Chapter 1: R
 
